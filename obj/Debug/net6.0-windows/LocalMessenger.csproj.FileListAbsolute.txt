@@ -1,0 +1,48 @@
+E:\Projects\C#\LocalMessenger\bin\Debug\net6.0-windows\LocalMessenger.exe
+E:\Projects\C#\LocalMessenger\bin\Debug\net6.0-windows\LocalMessenger.deps.json
+E:\Projects\C#\LocalMessenger\bin\Debug\net6.0-windows\LocalMessenger.runtimeconfig.json
+E:\Projects\C#\LocalMessenger\bin\Debug\net6.0-windows\LocalMessenger.dll
+E:\Projects\C#\LocalMessenger\bin\Debug\net6.0-windows\LocalMessenger.pdb
+E:\Projects\C#\LocalMessenger\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.csproj.AssemblyReference.cache
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\ChatWindow.baml
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\LoginWindow.baml
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\ChatWindow.g.cs
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\LoginWindow.g.cs
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\App.g.cs
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger_MarkupCompile.cache
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.g.resources
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.AssemblyInfoInputs.cache
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.AssemblyInfo.cs
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.csproj.CopyComplete
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.dll
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\refint\LocalMessenger.dll
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.pdb
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.genruntimeconfig.cache
+E:\Projects\C#\LocalMessenger\obj\Debug\net6.0-windows\ref\LocalMessenger.dll
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\bin\Debug\net6.0-windows\LocalMessenger.exe
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\bin\Debug\net6.0-windows\LocalMessenger.deps.json
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\bin\Debug\net6.0-windows\LocalMessenger.runtimeconfig.json
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\bin\Debug\net6.0-windows\LocalMessenger.dll
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\bin\Debug\net6.0-windows\LocalMessenger.pdb
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.csproj.AssemblyReference.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\ChatWindow.baml
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\ChatWindow.g.cs
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger_MarkupCompile.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.g.resources
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.AssemblyInfoInputs.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.AssemblyInfo.cs
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.csproj.CopyComplete
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.dll
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\refint\LocalMessenger.dll
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.pdb
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\LocalMessenger.genruntimeconfig.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\LocalMessenger\obj\Debug\net6.0-windows\ref\LocalMessenger.dll
